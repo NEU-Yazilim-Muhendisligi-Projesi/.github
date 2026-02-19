@@ -1,0 +1,33 @@
+# .github
+#NEU Library application
+
+#16.02.2026
+
+#Projede Yer Alan Öğrenciler
+#Gazi Argun Güler          24100011814
+#Ahmet Eymen Yarar      24100011812
+#Abdülkadir Alagöz         23100011016
+#Çağrı Karatepe.               22100011035 
+
+#Projeyi Teslim Alacak Öğretim Görevlileri
+#Dr. Öğr. Üyesi   Arda Söylev
+#Arş. Gör. Dr.      Abdülkadir Pektaş
+
+#Proje Başlığı: NEU KÜTÜPHANE APLİKASYONU
+
+#ALT BAŞLIKLAR:
+#1– Üye kayıt ve yönetim sistemi:
+# Sistemdeki üyelerin kaydını,girişini,çıkışını ve üstündeki demirbaşları listeler
+
+#2-Kitap kayıt ve yönetim sistemi:
+#Kütüphaneye eklenen ve çıkarılan kitapları türlerine göre sınıflar,sayfa sayısı,yayıncısı ve yayın tarihi gibi bilgileri gösterir
+
+#3-Kitap ödünç alma ve Kullanıcı kitap bilgi sistemi:
+#Sistemdeki kullanıcıların elindeki veya alabileceği kitapları listeler,kalan rehin süresini gösterir;ya da beklenilen kitabın sisteme ne zaman döneceği bilgisini verip randevu oluşturur.
+
+#4-Oturma alanı düzenleme sistemi:
+#Öğrencilerin kütüphanede oturdukları alanları işaretler,içerideki boştaki alanları öğrenciye gösterir ve belli bir timeout sonunda mevcut öğrenci üzerindeki oturma alanını boşa çıkarır.
+
+#Amaç: Üniversite bünyesindeki kütüphanelerde dijital şekilde bir düzen sağlamak ve kütüphane içindeki süreci kolaylaştırıp verimliliği arttırmak
+
+#Hedef kitle:Üniversite ve kütüphane yönetimi,öğrenciler ve akademik kadro.
